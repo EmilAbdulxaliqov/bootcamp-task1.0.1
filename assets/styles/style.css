@@ -470,7 +470,7 @@ ul {
     width: 22.08vw;
     height: 6.11vw;
     display: flex;
-    flex: wrap;
+    flex-wrap: wrap;
 }
 
 .phoneicon {
